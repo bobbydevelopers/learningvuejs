@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# learningvuejs
+This repository is for learning new tech stack that is vue js for frontend.
+>>>>>>> d3faba7befa5cf0861898a6819b01b55d9f0fc06
